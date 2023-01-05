@@ -1,9 +1,8 @@
 # project-template
 
-This is template for web projects which config with gulp and use tailwind for styles.
+This is a template for web projects which config with gulp and use tailwind for styles.
 
-We can use this for diffrent project.
-
+We can use this for different projects.
 
 first run => yarn
 
